@@ -62,7 +62,7 @@ Finally, **Microsoft Excel** was used to perform granular data cleaning, error t
    * *Solution:* Analyzed behavior between `VLOOKUP` (first match) vs `INDEX-MATCH` (bottom match) and applied `AVERAGEIFS` and `SUMIFS`.
 3. **KPI Visualization:** Applied **Conditional Formatting (Data Bars)** directly on Pivot Tables for clear visual summary.
 
-![Excel Pivot Summary Screenshot](Excel_Pivot.png)
+![Excel Pivot Summary Screenshot](images/Excel_Pivot.png)
 *Figure 2: Excel Summary Table with Data Bars Visualization*
 
 ---
